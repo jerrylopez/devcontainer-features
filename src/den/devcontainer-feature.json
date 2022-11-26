@@ -1,7 +1,7 @@
 {
     "name": "Den",
     "id": "den",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Installs Den a CLI utility for orchestrating Docker based developer environments.",
     "options": {
         "version": {
